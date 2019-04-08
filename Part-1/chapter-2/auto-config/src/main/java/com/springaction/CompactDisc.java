@@ -1,4 +1,4 @@
-package com.springaction.knights;
+package com.springaction;
 
 /**
  * 功能描述：压缩碟片

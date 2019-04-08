@@ -1,4 +1,4 @@
-package com.springaction.knights;
+package com.springaction;
 
 import org.springframework.stereotype.Component;
 

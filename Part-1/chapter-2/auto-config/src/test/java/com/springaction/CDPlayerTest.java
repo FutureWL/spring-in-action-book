@@ -1,4 +1,4 @@
-package com.springaction.knights;
+package com.springaction;
 
 import org.junit.Rule;
 import org.junit.Test;
