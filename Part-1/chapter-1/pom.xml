@@ -16,6 +16,16 @@
             <artifactId>mockito-core</artifactId>
             <version>1.9.5</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.0.7.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>4.0.7.RELEASE</version>
+        </dependency>
     </dependencies>
 
     <parent>
